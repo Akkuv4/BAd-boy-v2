@@ -12,7 +12,7 @@ Welcome BAD BOY V2
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Akkuv4/BAd-boy-v2</a> to make it public
+Project created by <a href="https://github.com/Akkuv4/BAD-BOY-v2</a> to make it public
     <br>
        | Â© |
         Reserved |
