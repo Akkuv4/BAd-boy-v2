@@ -22,7 +22,7 @@ Project created by <a href="https://github.com/Akkuv4/BAd-boy-v2</a> to make it 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
+  <a href="https://github.com/Akkuv4/BAd-boy-v2>
     <img src="https://img.shields.io/github/repo-size/Hisham-muhammed/Sophia?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/Hisham-muhammed?color=f7df1e&style=flat-square"></a>
